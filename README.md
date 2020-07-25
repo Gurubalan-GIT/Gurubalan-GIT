@@ -6,7 +6,7 @@
 </a>
 </p>
 &nbsp;
-<h1>Get in touch &nbsp; <img src="./assets/social.gif" width="100" /> </h1>
+<h1>Get in touch &nbsp; <img src="https://github.com/Gurubalan-GIT/Gurubalan-GIT/blob/master/assets/social.gif" width="100" /> </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gurubalan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurubalan//)](https://www.linkedin.com/in/gurubalan/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-gurubalan.work@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gurubalan.work@gmail.com)](mailto:gurubalan.work@gmail.com) &nbsp; [![Website Badge](https://img.shields.io/badge/-gbhtech.in-14161A?style=for-the-badge&logo=PureScript&logoColor=white&link=https://gbhtech.in/)](https://gbhtech.in/)
 
