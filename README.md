@@ -5,14 +5,9 @@
 
 <p align="center">
 <a href="https://github.com/Gurubalan-GIT/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurubalan-git&count_private=true&theme=dark" width="380"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurubalan-git&count_private=true&show_icons=true&theme=dark&show_owner=true&hide=issues" width="100%"/>
 </a>
-
 <a href="https://github.com/Gurubalan-GIT/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurubalan-git&count_private=true&show_icons=true&theme=dark&show_owner=true&hide=issues" width="500"/>
-</a>
-
-<a href="https://github.com/Gurubalan-GIT/CCC">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=gurubalan-git&repo=ccc&hide_border=true&theme=dark&show_owner=true" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurubalan-git&count_private=true&theme=dark" width="100%"/>
 </a>
 </p>
