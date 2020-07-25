@@ -5,10 +5,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurubalan-git&count_private=true&show_icons=true&theme=dark&show_owner=true&hide=issues" width="100%"/> 
 </a>
 </p>
-
-<br />
-<br />
-
+&nbsp;
 <h1>Get in touch</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gurubalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurubalan//)](https://www.linkedin.com/in/gurubalan/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-gurubalan.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gurubalan.work@gmail.com)](mailto:gurubalan.work@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gurubalan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurubalan//)](https://www.linkedin.com/in/gurubalan/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-gurubalan.work@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gurubalan.work@gmail.com)](mailto:gurubalan.work@gmail.com)
