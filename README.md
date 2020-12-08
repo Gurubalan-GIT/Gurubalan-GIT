@@ -5,6 +5,7 @@
   <img align="right" src="https://github-readme-stats.gurubalan-git.vercel.app/api?username=gurubalan-git&count_private=true&show_icons=true&theme=dark&show_owner=true&hide=issues" width="100%"/>      
 </a>
 </p>
+&nbsp;
 <h2> ➳ Get in touch!</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gurubalan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gurubalan//)](https://www.linkedin.com/in/gurubalan/) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-gurubalan.work@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gurubalan.work@gmail.com)](mailto:gurubalan.work@gmail.com) &nbsp; [![Website Badge](https://img.shields.io/badge/-gurubalan.dev-14161A?style=for-the-badge&logo=PureScript&logoColor=white&link=https://gurubalan.dev/)](https://gurubalan.dev/)
