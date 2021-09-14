@@ -3,6 +3,9 @@
 <img alt="tech-stack-cover" src="https://github.com/Gurubalan-GIT/Gurubalan-GIT/blob/master/assets/tech-stack-cover.gif" width="100%" />
 <img alt="about-cover" src="https://github.com/Gurubalan-GIT/Gurubalan-GIT/blob/master/assets/about-cover.gif" width="100%" />
 <a href="https://github.com/Gurubalan-GIT/">
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=gurubalan-git&custom_title=My%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=000000"/>      
+</a>
+<a href="https://github.com/Gurubalan-GIT/">
   <img align="right" src="https://github-readme-stats.gurubalan-git.vercel.app/api?username=gurubalan-git&count_private=true&show_icons=true&theme=dark&show_owner=true&hide=issues&hide_border=0&custom_title=My Github Stats" width="100%"/>      
 </a>
 <a href="https://github.com/Gurubalan-GIT/">
