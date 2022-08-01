@@ -1,7 +1,6 @@
 <p align="center">
 <img alt="header-cover" src="https://github.com/Gurubalan-GIT/Gurubalan-GIT/blob/master/assets/cover.gif" width="100%" />
 <img alt="tech-stack-cover" src="https://github.com/Gurubalan-GIT/Gurubalan-GIT/blob/master/assets/tech-stack-cover.gif" width="100%" />
-<img alt="about-cover" src="https://github.com/Gurubalan-GIT/Gurubalan-GIT/blob/master/assets/about-cover.gif" width="100%" />
 <a href="https://github.com/Gurubalan-GIT/">
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=gurubalan-git&custom_title=My%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=000000"/>      
 </a>
