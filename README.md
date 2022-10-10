@@ -10,6 +10,9 @@
 <a href="https://github.com/Gurubalan-GIT/">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=gurubalan-git&theme=black-ice&hide_border=true" width="100%"/>      
 </a>
+  <a href="https://wakatime.com/@gurubalanh">
+  <img align="right" src="http://github-readme-stats.gurubalan-git.vercel.app/api/wakatime?username=gurubalanh&layout=compact&theme=dark&hide_border=0&custom_title=My Weekly Stats" width="100%"/>
+</a>
 </p>
 &nbsp;
 <h2> ➳ Get in touch!</h2>
