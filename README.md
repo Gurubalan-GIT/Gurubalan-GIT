@@ -5,13 +5,13 @@
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=gurubalan-git&custom_title=My%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=000000"/>      
 </a>
 <a href="https://github.com/Gurubalan-GIT/">
-  <img align="right" src="http://github-readme-stats.gurubalan-git.vercel.app/api?username=gurubalan-git&count_private=true&show_icons=true&theme=dark&show_owner=true&hide=issues&hide_border=0&custom_title=My Github Stats" width="100%"/>      
+  <img align="right" src="http://github-readme-stats.gurubalan-git.vercel.app/api?username=gurubalan-git&count_private=true&show_icons=true&theme=dark&show_owner=true&hide=issues&hide_border=0&custom_title=My&nbsp;Github&nbsp;Stats" width="100%"/>      
 </a>
 <a href="https://github.com/Gurubalan-GIT/">
   <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=gurubalan-git&theme=black-ice&hide_border=true" width="100%"/>      
 </a>
-  <a href="https://wakatime.com/@gurubalanh">
-  <img align="right" src="http://github-readme-stats.gurubalan-git.vercel.app/api/wakatime?username=gurubalanh&layout=compact&theme=dark&hide_border=0&custom_title=My Weekly Stats" width="100%"/>
+<a href="https://wakatime.com/@gurubalanh">
+  <img align="right" src="http://github-readme-stats.gurubalan-git.vercel.app/api/wakatime?username=gurubalanh&layout=compact&theme=dark&hide_border=0&custom_title=My&nbsp;Weekly&nbsp;Stats" width="100%"/>
 </a>
 </p>
 &nbsp;
